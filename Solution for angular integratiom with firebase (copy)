@@ -1,0 +1,42 @@
+
+Reference Link
+
+https://github.com/AngularTemplates/firebase-authentication-with-angular-5/tree/master/src
+
+https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
+
+Steps:
+
+
+Setting up the Angular Project
+ In the console, run:
+
+ng new myproject
+cd myproject
+
+Once you're in the new project folder, we need to install AngularFire2:
+
+npm install angularfire2 firebase --save
+
+
+For generating componenet:-
+
+ng generate component login
+
+
+Run it!
+Now it's time to give it a go! In the console, simply type:
+
+ng serve
+
+
+And visit your browser at http://localhost:4200
+
+
+Error Fixes:
+
+For Module not found: Error: Can't resolve 'rxjs/add/operator/toPromise
+
+ solution for that is npm install rxjs@6 rxjs-compat@6 --save
+
+
