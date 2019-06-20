@@ -22,7 +22,7 @@
     "@angular/router": "^6.1.10",
     "angularfire2": "^5.0.0-rc.11",
     "core-js": "^2.6.5",
-    "firebase": "^5.2.0",
+    "firebase": "^5.11.1",
     "rxjs": "^6.5.2",
     "rxjs-compat": "^6.2.2",
     "zone.js": "^0.8.26"
